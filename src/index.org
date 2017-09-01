@@ -1,0 +1,19 @@
+#+TITLE: Release Notes
+#+AUTHOR: VLEAD
+#+DATE: [2016-08-31 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+* Introduction
+  The release notes for the three LDK releases are put in a sequence here. 
+
+  1. [[./ldk-0.5.org][LDK 0.5]]
+
+  2. [[./ldk-1.0.org][LDK 1.0]]
+
+  3. [[./ldk-2.0.org][LDK 2.0]]
+
+  4. [[./ldk-3.0.org][LDK 3.0]]

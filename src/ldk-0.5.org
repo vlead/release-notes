@@ -1,0 +1,53 @@
+#+TITLE: Release notes for LDK 0.5
+#+AUTHOR: VLEAD
+#+DATE: [2016-08-31 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+The kit contains documentation and software to make a lab
+[[../index.org::#glossary-autodeployment][/auto deployable/]] and [[./ldk-0.5.org::#uicompliance][/UI-1.0 Compliant/]].
+
+* Auto Deployment
+:PROPERTIES:
+:CUSTOM_ID: autodeployment
+:END:
+ With the help of software and documentation available in
+ the lik, an integration engineer can
+
+ 1. Run auto-deployment service on an integration engineer's
+    workstation and deploy a lab on a virtual machine
+    created on the workstation.  This step allows an
+    engineer to test the lab for auto deployability.
+
+ 2. Request to deploy a lab in the hosting ifrastructure of
+    IIIT-H.  The auto deployment service running in the IIIT
+    infrastructure deploys the lab in an independent VM.
+
+
+* UI 1.0 Compliance
+:PROPERTIES:
+:CUSTOM_ID: uicompliance
+:END:
+  The software and documentation in the LIK allows an
+  integration enginner to:
+
+  1. Provide a Unified look and feel :: The UI 1.0 Toolkit
+       offers a uniform user interface for authoring and
+       interacting with the virtual labs.  It also provides
+       labs a simple and uniform web interface and a
+       homogeneous hosting framework.
+
+  2. Adhere to coding standards :: The Toolkit ensures that
+       lab developers follow good programming practices to
+       make the code of the labs efficient and readable.
+
+  3. Upgrade widgets and components :: The UI 1.0 template
+       makes it easy for lab developers to modify and update
+       widgets and/or components.
+
+  4. Provide for better versions of template :: In future,
+       if advanced versions of the UI template are created,
+       the lab developers can transfer the lab content
+       automatically as per the new versions.
