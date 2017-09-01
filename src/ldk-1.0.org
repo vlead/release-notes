@@ -6,8 +6,9 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
+* Introduction
 The kit contains documentation and software to make a lab
-[[../index.org::#glossary-autodeployment][/auto deployable/]], [[./ldk-0.5.org::#uicompliance][/UI-1.0 Compliant/]] and [[../index.org::#glossary-persistence][/Persistent/]].
+/[[../index.org::#glossary-autodeployment][auto deployable]]/, /[[./ldk-0.5.org::#uicompliance][UI-1.0 Compliant]]/ and /[[../index.org::#glossary-persistence][Persistent]]/.
 
 * Auto Deployment 1.0
 :PROPERTIES:

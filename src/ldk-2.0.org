@@ -6,8 +6,9 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
+* Introduction
 There is no 2.0 kit released officially.  But all the
-components that make up the kit (refer [[https://drive.google.com/file/d/0ByhNY8nO_CW3T3kyWXR1Q0NFN2s/view?usp=sharing][/DPR/]] page 11) are
+components that make up the kit (refer /[[https://drive.google.com/file/d/0ByhNY8nO_CW3T3kyWXR1Q0NFN2s/view?usp=sharing][DPR]]/ page 11) are
 achieved independently and tracked by a repository on
 github.
 
@@ -18,8 +19,8 @@ github.
 Release 2.0 achieves generation of a qualified domain name
 after the lab is deployed on a virtual machine.  This
 entails communication with a =systems= service to retrieve
-the domain name.  For more details refer to the [[https://github.com/vlead/ovpl/releases/tag/v1.2.0][/release/]]
-[[https://github.com/vlead/ovpl/releases/tag/v1.2.0][/notes/]] of the [[https://github.com/vlead/ovpl/releases/tag/v1.2.0][OVPL 2.0]] [[https://github.com/vlead/ovpl/releases/tag/v1.2.0][release]].
+the domain name.  For more details refer to the /[[https://github.com/vlead/ovpl/releases/tag/v1.2.0][release]]/
+/[[https://github.com/vlead/ovpl/releases/tag/v1.2.0][notes]]/ of the /[[https://github.com/vlead/ovpl/releases/tag/v1.2.0][OVPL 2.0]]/ /[[https://github.com/vlead/ovpl/releases/tag/v1.2.0][release]]/.
 
 * Web 2.0 Compliance
 :PROPERTIES:
@@ -30,13 +31,13 @@ The release contains the documentation and software to
    is converted to UI 3.0, the lab becomes responsive.
 2. structure a lab to comply with a standard UI template.
 
-Sources are available in a [[https://github.com/vlead/ui-3.0-toolkit/releases/tag/v3.0][/repository/]] on [[https://github.com/vlead/ui-3.0-toolkit/releases/tag/v3.0][/github/]].
+Sources are available in a /[[https://github.com/vlead/ui-3.0-toolkit/releases/tag/v3.0][repository]]/ on /[[https://github.com/vlead/ui-3.0-toolkit/releases/tag/v3.0][github]]/.
 
 * Analytics 2.0
 :PROPERTIES:
 :CUSTOM_ID: analytics
 :END:
-An [[http://vlabs.ac.in/analytics/usage.html][/analytics/]] service is developed that exposes a set of
+An /[[http://vlabs.ac.in/analytics/usage.html][analytics]]/ service is developed that exposes a set of
 API to display usage and hits of Virtual Labs.
 
 * Secutiy Framework 2.0
@@ -54,12 +55,12 @@ called =router=.
 :PROPERTIES:
 :CUSTOM_ID: persistence
 :END:
-[[http://edx-courses.vlabs.ac.in][/Ten labs/]] are ported to Open edX [[https://vlabs.ac.in][/platform/]].  The platform
+/[[http://edx-courses.vlabs.ac.in][Ten labs]]/ are ported to Open edX /[[https://vlabs.ac.in][platform]]/.  The platform
 provides persistence where the user in a new session is
 moved to the same section that he/she has accessed in the
 previous session.  The procedure to setup the platform and
-port virtual labs to the platforms is part of a [[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][/repository/]]
-on [[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][/github/]].
+port virtual labs to the platforms is part of a /[[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][repository]]/
+on /[[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][github]]/.
 
 * Performance 2.0
 :PROPERTIES:
@@ -79,8 +80,8 @@ Packaging labs in a USB is not pursued.  This activity is
 put in abeyance due to the decisions taken at several
 meetings.
 
-Please refer to the minutes of [[https://drive.google.com/file/d/0ByhNY8nO_CW3M2toQ0sySmVyRWs/view?usp=sharing][/1, section 4.4/]], [[https://drive.google.com/file/d/0B0V6lgtnnIOZclZFUGE1Y0VhYXc/view?usp=sharing][/2, item 7/]]
-and [[https://drive.google.com/file/d/0B843H8vNTOzZTGl4WklxWFI5SkE/view?usp=sharing][/3, Item 5/]] meetings.
+Please refer to the minutes of /[[https://drive.google.com/file/d/0ByhNY8nO_CW3M2toQ0sySmVyRWs/view?usp=sharing][1, section 4.4]]/, /[[https://drive.google.com/file/d/0B0V6lgtnnIOZclZFUGE1Y0VhYXc/view?usp=sharing][2, item 7]]/
+and /[[https://drive.google.com/file/d/0B843H8vNTOzZTGl4WklxWFI5SkE/view?usp=sharing][3, Item 5]]/ meetings.
 
 * FOSS 2.0
 :PROPERTIES:
