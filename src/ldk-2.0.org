@@ -55,9 +55,10 @@ called =router=.
 :PROPERTIES:
 :CUSTOM_ID: persistence
 :END:
-/[[http://edx-courses.vlabs.ac.in][Ten labs]]/ are ported to Open edX /[[https://vlabs.ac.in][platform]]/.  The platform
-provides persistence where the user in a new session is
-moved to the same section that he/she has accessed in the
+As pilot ten labs are ported to Open edX /[[https://vlabs.ac.in][platform]]/. 
+It is planned to port all the virtual labs on this platform once the 
+pilot is successful. The platform provides persistence where the user in a 
+new session is moved to the same section that he/she has accessed in the
 previous session.  The procedure to setup the platform and
 port virtual labs to the platforms is part of a /[[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][repository]]/
 on /[[https://github.com/openedx-vlead/port-labs-to-openedx/blob/develop/src][github]]/.
